@@ -1,0 +1,25 @@
+body {
+    position: relative;
+}
+
+.jumbotron {
+    color: #fff;
+    background-image: url("../imgs/landing-bg-01.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#email {
+    width: 300px;
+}
+
+#appSumary {
+    text-align: center;
+    margin: 60px 0;
+}
+
+#footer {
+    padding: 0 150px;
+    margin-top: 150px;
+    text-align: center;
+}
